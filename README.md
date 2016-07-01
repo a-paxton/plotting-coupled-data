@@ -4,12 +4,11 @@ This code plots coupled categorical and continuous time series in a single, eleg
 
 ## Color Figure
 
-![alt text](https://github.com/a-paxton/plotting-coupled-data/color-figure.png "Color Figure")
+![alt text](color-figure.png "Color Figure")
 
 ## Greyscale Figure
 
-![alt text](https://github.com/a-paxton/plotting-coupled-data/greyscale-figure.png "Greyscale Figure")
-
+![alt text](greyscale-figure.png "Greyscale Figure")
 
 ## Adapting this code
 
